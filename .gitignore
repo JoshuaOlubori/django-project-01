@@ -1,0 +1,2 @@
+# ignore dev_settings file
+*mysite\dev_settings.py
